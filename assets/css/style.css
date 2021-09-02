@@ -485,8 +485,8 @@ img {
   transition: 0.3s;
 }
 
-.new__sneaker-card:hover {
-  bottom: 0;
+.new__sneaker-overlay:hover {
+  opacity: 0.3;
 }
 
 /* News Letter */
