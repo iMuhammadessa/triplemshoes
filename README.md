@@ -1,2 +1,5 @@
-# triplemshoes
-An e-commerce app for buying shoes
+# TRIPLEMSHOES
+
+> An e-commerce App for shoes
+
+![Frontend](assets/img/triplemshoes.png)
